@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **helloadityayo@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1RBOF6mQYZeczcOCNhwqhp_CnP4KG1-vXFcQ12ntqK7I/edit](https://docs.google.com/document/d/1RBOF6mQYZeczcOCNhwqhp_CnP4KG1-vXFcQ12ntqK7I/edit)
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1RBOF6mQYZeczcOCNhwqhp_CnP4KG1-vXFcQ12ntqK7I/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
