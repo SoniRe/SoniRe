@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web3 and BlockChain**
 
-- 👨‍💻 All of my projects are available at [link](link)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://aditya-cv.netlify.app/)
 
 - 💬 Ask me about **MERN**
 
