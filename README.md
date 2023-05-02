@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aditya-cv.netlify.app/)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Data Structure and Algorithms,MERN**
 
 - 📫 How to reach me **helloadityayo@gmail.com**
 
