@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonire&label=Profile%20views&color=0e75b6&style=flat" alt="sonire" /> </p>
 
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **Amazon Clone**
 
-- 🌱 I’m currently learning **Web3 and BlockChain**
+- 🌱 I’m currently learning **Advance CSS**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aditya-cv.netlify.app/)
 
