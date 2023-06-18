@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonire&label=Profile%20views&color=0e75b6&style=flat" alt="sonire" /> </p>
 
-- 🔭 I’m currently working on **Amazon Clone**
+- 🔭 I’m currently working on **My Resume**
 
 - 🌱 I’m currently learning **Advance CSS**
 
