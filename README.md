@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonire&label=Profile%20views&color=0e75b6&style=flat" alt="sonire" /> </p>
 
-- 🔭 I’m currently working on **My Resume**
-
-- 🌱 I’m currently learning **Advance CSS**
+- 🌱 I’m currently learning **Angular**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aditya-cv.netlify.app/)
 
 - 📫 How to reach me **helloadityayo@gmail.com**
 
-- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1RBOF6mQYZeczcOCNhwqhp_CnP4KG1-vXFcQ12ntqK7I/edit)
+- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1m-xAl8LZt7ovjr0Tp_Xx6BBhMebi7pAX/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
