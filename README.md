@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonire&label=Profile%20views&color=0e75b6&style=flat" alt="sonire" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **MERN Stack**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://aditya-cv.netlify.app/)
 
