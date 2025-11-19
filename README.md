@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">I am a Full Stack Developer</h3>
+<h3 align="center">I am a Software Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonire&label=Profile%20views&color=0e75b6&style=flat" alt="sonire" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://aditya-cv.netlify.app/)
-
 - 📫 How to reach me **helloadityayo@gmail.com**
-
-- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1m-xAl8LZt7ovjr0Tp_Xx6BBhMebi7pAX/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
